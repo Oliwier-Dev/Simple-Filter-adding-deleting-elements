@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+td, th, table {
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+td, th {
+    padding: 0.3rem;
+    min-width: 4rem;
+    margin: auto;
+}
